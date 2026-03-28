@@ -1,6 +1,4 @@
-Hier ist der komplette Inhalt als formatierter Markdown-Code. Du kannst diesen Block kopieren und direkt in deine `README.md` einfügen.
 
-````markdown
 # 🎬 Jellyfin Discord Rich Presence
 
 Zeigt auf Discord an, was du gerade auf deinem Jellyfin-Server schaust oder hörst. Unterstützt **Filme**, **Serien** und **Musik** mit individuellen Buttons und Icons.
@@ -142,11 +140,7 @@ MIT License – Siehe `LICENSE` Datei
   * **Jellyfin** – Das Media-System
   * **discord-rpc** – Discord RPC Implementierung
 
------
 
 ⭐ **Bei Fragen oder Problemen einfach ein Issue auf GitHub erstellen\!**
 
-```
 
-Soll ich noch einen Abschnitt hinzufügen, wie man den API-Key oder die User-ID genau in der Jellyfin-Weboberfläche findet?
-```
