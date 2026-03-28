@@ -3,8 +3,6 @@
 
 Zeigt auf Discord an, was du gerade auf deinem Jellyfin-Server schaust oder hörst. Unterstützt **Filme**, **Serien** und **Musik** mit individuellen Buttons und Icons.
 
-![Demo](https://via.placeholder.com/800x200?text=Jellyfin+Discord+RPC+Demo)
-
 ## ✨ Features
 
 * 🎵 **Musik** – Zeigt Titel, Künstler und Album an – mit YouTube-Link-Button
@@ -25,7 +23,7 @@ Zeigt auf Discord an, was du gerade auf deinem Jellyfin-Server schaust oder hör
 
 ### 1. Repository klonen
 ```bash
-git clone [https://github.com/deinusername/jellyfin-rpc.git](https://github.com/deinusername/jellyfin-rpc.git)
+git clone [https://github.com/ezt1mi/jellyfin-rpc.git](https://github.com/ezt1mi/jellyfin-rpc.git)
 cd jellyfin-rpc
 ````
 
