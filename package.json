@@ -5,12 +5,15 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "build": "pkg . --targets node18-win-x64 --output jellyfin-rpc.exe"
+    "build": "npx pkg index.js --targets node18-win-x64 --output jellyfin-rpc.exe"
   },
   "dependencies": {
     "axios": "^1.6.0",
-    "code": "^5.2.4",
-    "discord-rpc": "^4.0.1"
+    "discord-rpc": "^4.0.1",
+    "node-notifier": "^10.0.1"
+  },
+  "devDependencies": {
+    "pkg": "^5.8.1"
   },
   "pkg": {
     "assets": [],
